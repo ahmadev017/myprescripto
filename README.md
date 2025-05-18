@@ -1,4 +1,4 @@
 # prescripto
 this is my first git repository
 <br>
-author-ahmad raza
+author-ahmad raza (dev)
